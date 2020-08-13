@@ -2,6 +2,7 @@
 !appveyor.yml
 !app
 app/*
+!modman
 
 # code
 !app/code
